@@ -18,7 +18,7 @@ if press the clean button quickly, it cleans flash memory for writing software.
 otherwise;
 
 bootloader function;
-                    if have a software in flash memory, it runs the software in flash memory.
+                    if have a software in flash memory, it runs the software from flash memory.
                     if haven't a software in flash memory, it waits until take load command from user.
   
 app-demo is making sliding between three leds.
