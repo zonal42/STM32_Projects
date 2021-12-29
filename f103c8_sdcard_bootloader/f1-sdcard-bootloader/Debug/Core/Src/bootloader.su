@@ -1,0 +1,10 @@
+bootloader.c:35:5:bufsize	24	static
+bootloader.c:44:6:bootloaderInit	32	static
+bootloader.c:186:9:flashWord	40	static
+bootloader.c:219:10:readWord	24	static
+bootloader.c:227:6:eraseMemory	32	static
+bootloader.c:265:6:unlockFlashAndEraseMemory	32	static
+bootloader.c:297:6:lockFlash	8	static
+bootloader.c:311:6:jumpToApp	24	static,ignoring_inline_asm
+bootloader.c:322:6:deinitEverything	8	static
+bootloader.c:338:9:Bootloader_CheckSize	16	static
