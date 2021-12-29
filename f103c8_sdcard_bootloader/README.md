@@ -1,5 +1,5 @@
 # F1_SDCARD_BOOTLOADER
-Includes my stm32 projects in this repository.
+
 
 Hi Everyone. 
 I maked a bootloader using a .bin file from sdcard with stm32f103 bluepill board.
