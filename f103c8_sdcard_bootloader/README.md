@@ -12,13 +12,15 @@ First button makes load, second button makes clear.
 After restarting;
 
 if press the load button quickly, it loads .bin file from sdcard and it runs software written from sd card .
+
 if press the clear button quickly, it clears flash memory for writing software.
 
 otherwise;
 
-bootloader function if have a software in flash memory, it runs the software in flash memory.
-bootloader function if haven't a software in flash memory, it waits until take load command from user.
-
+bootloader function;
+                    if have a software in flash memory, it runs the software in flash memory.
+                    if haven't a software in flash memory, it waits until take load command from user.
+  
 app-demo is making sliding between three leds.
 
 Other application makes loading, clearing, running processes.
