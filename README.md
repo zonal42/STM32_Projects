@@ -19,3 +19,5 @@ otherwise;
 
 bootloader function if have a software in flash memory, it runs the software in flash memory.
 bootloader function if haven't a software in flash memory, it waits until take load command from user.
+
+app-demo is making sliding between three leds.
