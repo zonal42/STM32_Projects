@@ -1,6 +1,5 @@
 # F1_SDCARD_BOOTLOADER
 
-
 Hi Everyone. 
 I maked a bootloader using a .bin file from sdcard with stm32f103 bluepill board.
 
@@ -21,3 +20,5 @@ bootloader function if have a software in flash memory, it runs the software in 
 bootloader function if haven't a software in flash memory, it waits until take load command from user.
 
 app-demo is making sliding between three leds.
+
+Other application makes loading, clearing, running processes.
