@@ -12,7 +12,7 @@ First button makes load, second button makes clear.
 
 After restarting;
 
-if press the load button quickly, it loads .bin file from sdcard.
+if press the load button quickly, it loads .bin file from sdcard and it runs software written from sd card .
 if press the clear button quickly, it clears flash memory for writing software.
 
 otherwise;
