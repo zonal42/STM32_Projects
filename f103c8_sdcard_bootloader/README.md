@@ -21,6 +21,6 @@ bootloader function;
                     if have a software in flash memory, it runs the software from flash memory.
                     if haven't a software in flash memory, it waits until take load command from user.
   
-app-demo is making sliding between three leds.
+app-demo is making sliding process between three leds.
 
 Other application makes loading, clearing, running processes.
